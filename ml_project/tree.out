@@ -1,0 +1,111 @@
+[1;36m.[0m
+├── Traffic Light Detection | Pytorch Starter.ipynb
+├── [1;36mdata[0m
+│   └── [1;36minput[0m
+│       ├── [1;36maiua120214-0[0m
+│       │   └── [1;36mframeAnnotations-DataLog02142012_external_camera.avi_annotations[0m
+│       ├── [1;36maiua120214-1[0m
+│       │   └── [1;36mframeAnnotations-DataLog02142012_001_external_camera.avi_annotations[0m
+│       ├── [1;36maiua120214-2[0m
+│       │   └── [1;36mframeAnnotations-DataLog02142012_002_external_camera.avi_annotations[0m
+│       ├── [1;36maiua120306-0[0m
+│       │   └── [1;36mframeAnnotations-DataLog02142012_002_external_camera.avi_annotations[0m
+│       ├── [1;36maiua120306-1[0m
+│       │   └── [1;36mframeAnnotations-DataLog02142012_003_external_camera.avi_annotations[0m
+│       ├── allAnnotations.csv
+│       ├── categories.txt
+│       ├── datasetDescription.pdf
+│       ├── [1;36mnegatives[0m
+│       │   ├── [1;36mnegativePics[0m
+│       │   └── negatives.dat
+│       ├── readme.txt
+│       ├── [1;36mtools[0m
+│       │   ├── evaluateDetections.py
+│       │   ├── extractAnnotations.py
+│       │   ├── mergeAnnotationFiles.py
+│       │   └── splitAnnotationFiles.py
+│       ├── [1;36mvid0[0m
+│       │   └── [1;36mframeAnnotations-vid_cmp2.avi_annotations[0m
+│       ├── [1;36mvid1[0m
+│       │   └── [1;36mframeAnnotations-vid_cmp1.avi_annotations[0m
+│       ├── [1;36mvid10[0m
+│       │   └── [1;36mframeAnnotations-MVI_0122.MOV_annotations[0m
+│       ├── [1;36mvid11[0m
+│       │   └── [1;36mframeAnnotations-MVI_0123.MOV_annotations[0m
+│       ├── [1;36mvid2[0m
+│       │   └── [1;36mframeAnnotations-vid_cmp2.avi_annotations[0m
+│       ├── [1;36mvid3[0m
+│       │   └── [1;36mframeAnnotations-vid_cmp2.avi_annotations[0m
+│       ├── [1;36mvid4[0m
+│       │   └── [1;36mframeAnnotations-vid_cmp2.avi_annotations[0m
+│       ├── [1;36mvid5[0m
+│       │   └── [1;36mframeAnnotations-vid_cmp2.avi_annotations[0m
+│       ├── [1;36mvid6[0m
+│       │   └── [1;36mframeAnnotations-MVI_0071.MOV_annotations[0m
+│       ├── [1;36mvid7[0m
+│       │   └── [1;36mframeAnnotations-MVI_0119.MOV_annotations[0m
+│       ├── [1;36mvid8[0m
+│       │   └── [1;36mframeAnnotations-MVI_0120.MOV_annotations[0m
+│       ├── [1;36mvid9[0m
+│       │   └── [1;36mframeAnnotations-MVI_0121.MOV_annotations[0m
+│       └── videoSources.txt
+├── ml_project.ipynb
+├── [1;36mtest1[0m
+│   ├── [1;36mbin[0m
+│   │   ├── Activate.ps1
+│   │   ├── activate
+│   │   ├── activate.csh
+│   │   ├── activate.fish
+│   │   ├── [31mestimator_ckpt_converter[0m
+│   │   ├── [31mf2py[0m
+│   │   ├── [31mf2py3[0m
+│   │   ├── [31mf2py3.10[0m
+│   │   ├── [31mfonttools[0m
+│   │   ├── [31mgoogle-oauthlib-tool[0m
+│   │   ├── [31mimport_pb_to_tensorboard[0m
+│   │   ├── [31mipython[0m
+│   │   ├── [31mipython3[0m
+│   │   ├── [31mjupyter[0m
+│   │   ├── [31mjupyter-kernel[0m
+│   │   ├── [31mjupyter-kernelspec[0m
+│   │   ├── [31mjupyter-migrate[0m
+│   │   ├── [31mjupyter-run[0m
+│   │   ├── [31mjupyter-troubleshoot[0m
+│   │   ├── [31mmarkdown_py[0m
+│   │   ├── [31mnormalizer[0m
+│   │   ├── [31mpip[0m
+│   │   ├── [31mpip3[0m
+│   │   ├── [31mpip3.10[0m
+│   │   ├── [31mpyftmerge[0m
+│   │   ├── [31mpyftsubset[0m
+│   │   ├── [31mpygmentize[0m
+│   │   ├── [31mpyrsa-decrypt[0m
+│   │   ├── [31mpyrsa-encrypt[0m
+│   │   ├── [31mpyrsa-keygen[0m
+│   │   ├── [31mpyrsa-priv2pub[0m
+│   │   ├── [31mpyrsa-sign[0m
+│   │   ├── [31mpyrsa-verify[0m
+│   │   ├── [35mpython[0m -> [31mpython3[0m
+│   │   ├── [35mpython3[0m -> [31m/Users/diegogaray/anaconda3/bin/python3[0m
+│   │   ├── [35mpython3.10[0m -> [31mpython3[0m
+│   │   ├── [31msaved_model_cli[0m
+│   │   ├── [31mtensorboard[0m
+│   │   ├── [31mtf_upgrade_v2[0m
+│   │   ├── [31mtflite_convert[0m
+│   │   ├── [31mtoco[0m
+│   │   ├── [31mtoco_from_protos[0m
+│   │   ├── [31mttx[0m
+│   │   └── [31mwheel[0m
+│   ├── [1;36minclude[0m
+│   ├── [1;36mlib[0m
+│   │   └── [1;36mpython3.10[0m
+│   │       └── [1;36msite-packages[0m
+│   ├── pyvenv.cfg
+│   └── [1;36mshare[0m
+│       ├── [1;36mjupyter[0m
+│       │   └── [1;36mkernels[0m
+│       └── [1;36mman[0m
+│           └── [1;36mman1[0m
+└── tree.out
+
+51 directories, 58 files
